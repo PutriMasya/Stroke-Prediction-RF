@@ -12,11 +12,11 @@ Label target: stroke (0 = Tidak, 1 = Ya)
 ### Teknik yang Digunakan
 Data Preprocessing:
 #### ✅ Mengatasi Missing Value dengan imputasi mean
-✅ Mengatasi Outlier
-✅ Normalisasi semua fitur numerik
-✅ Mengatasi ketidakseimbangan kelas dengan SMOTE
-✅ Encoding fitur kategori
+#### ✅ Mengatasi Outlier
+#### ✅ Normalisasi semua fitur numerik
+#### ✅ Mengatasi ketidakseimbangan kelas dengan SMOTE
+#### ✅ Encoding fitur kategori
 
 ### Model Machine Learning:
-✅ Random Forest sebagai model utama
-✅ Evaluasi: Akurasi, Precision, Recall, F1-score, Confusion Matrix
+#### ✅ Random Forest sebagai model utama
+#### ✅ Evaluasi: Akurasi, Precision, Recall, F1-score, Confusion Matrix
