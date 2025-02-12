@@ -11,7 +11,7 @@ Label target: stroke (0 = Tidak, 1 = Ya)
 
 ### Teknik yang Digunakan
 Data Preprocessing:
-## ✅ Mengatasi Missing Value dengan imputasi mean
+#### ✅ Mengatasi Missing Value dengan imputasi mean
 ✅ Mengatasi Outlier
 ✅ Normalisasi semua fitur numerik
 ✅ Mengatasi ketidakseimbangan kelas dengan SMOTE
